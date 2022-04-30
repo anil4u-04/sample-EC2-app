@@ -20,6 +20,7 @@ Python and its dependencies
 Install Python Flask dependency
 
     pip install flask
+    sudo apt install python3-flask
 
 - Copy app.py or download it from source repository
 - 
@@ -27,7 +28,7 @@ Install Python Flask dependency
 
 Start web server
 
-    FLASK_APP=app.py flask run --host=0.0.0.0
+    FLASK_APP=sampleApp.py flask run --host=0.0.0.0
 
 ## 4. Test
 
