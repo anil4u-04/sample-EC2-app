@@ -14,7 +14,7 @@ Python and its dependencies
 
     apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
  
- ## 4. Install and Configure Web Server
+ ## 2. Install and Configure Web Server
 
 Install Python Flask dependency
 
@@ -23,7 +23,7 @@ Install Python Flask dependency
 
 - Copy app.py or download it from source repository
 
-## 6. Test
+## 3. Test
 
 Open a browser and go to URL
 
