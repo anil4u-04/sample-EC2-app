@@ -13,7 +13,7 @@ Below are the steps required to get this working on a base linux system.
 Python and its dependencies
 
     sudo apt-get update
-    sudo apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
+    sudo apt-get install -y python python-setuptools python-dev build-essential python-pip
  
  ## 2. Install and Configure Web Server
 
