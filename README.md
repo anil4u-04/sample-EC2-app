@@ -20,7 +20,6 @@ Python and its dependencies
 Install Python Flask dependency
 
     pip install flask
-    pip install flask-mysql
 
 - Copy app.py or download it from source repository
 
