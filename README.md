@@ -22,8 +22,14 @@ Install Python Flask dependency
     pip install flask
 
 - Copy app.py or download it from source repository
+- 
+## 3. Start Web Server
 
-## 3. Test
+Start web server
+
+    FLASK_APP=app.py flask run --host=0.0.0.0
+
+## 4. Test
 
 Open a browser and go to URL
 
